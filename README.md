@@ -3,7 +3,7 @@ Comme indiqué dans l'entête, ce tuto est directement issu du travail d'Isabell
 ## Dans ce dépôt, vous trouverez  
 
 * le cours complet d'I. Blasquez d'introduction à git : [ici](git_Introduction.pdf)
-* le cours réduite de Vincent Guigue : [ici](git_vg.pdf) 
+* le cours réduit de Vincent Guigue : [ici](git_vg.pdf) 
 * les instructions d'installation de git si nécessaire: [git](https://git-scm.com)
 * un tutoriel de prise en main de git en ligne de commande (construit à partir des exemples du cours précédent) : [ici](git/git_premierspas.md) 
 
