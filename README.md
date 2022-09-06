@@ -12,11 +12,19 @@ A l'issue de ces étapes, vous devez avoir compris la notion de version pour des
 ## Exercices interactifs avancés pour manipuler les commandes git
 
 L'outil **git-it** vous guide pour acquérir toutes les bases dont vous avez besoin. Les autres outils sont visuellement intéressants mais facultatifs.
+Attention: pour faire des pushs, les tutos ne sont pas à jour, il faut passer par la création de clés SSH (cf section suivante).
 
 * [Git-It](https://github.com/jlord/git-it-electron) : application multi-plateforme ([à installer](https://github.com/jlord/git-it-electron/releases/latest)) proposant des défis utilisant *vraiment* git et GitHub sans passer par un émulateur...
 * [Resources to learn git](https://try.github.io)
 * [Learn Git Branching](http://learngitbranching.js.org/) : apprendre le branching sous git
 * [Visualizing git](http://git-school.github.io/visualizing-git) et [Git Gud](https://nic-hartley.github.io/git-gud) : des simulateurs web pour manipuler/visualiser les commandes et mieux comprendre les workflows.
+
+## Gestion des clés ssh
+
+Comme github ne permet plus les push avec authentification basique, il faut passer par la création/déclaration de clés ssh
+1. Création de clés ssh locales (publique/privée): [lien](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keys)
+1. Déclaration des clés autorisées sur votre compte github
+1. clonage des projets en mode ssh (ou redéclaration des dépots distants)
 
 
 ## Des liens à garder sous la main
