@@ -1,22 +1,21 @@
-# Prise en main de git et d'EGit 
-
-
+Comme indiqué dans l'entête, ce tuto est directement issu du travail d'Isabelle Blasquez.
 
 ## Dans ce dépôt, vous trouverez  
 
 * un cours d'introduction à git (dont vous pourrez facilement refaire tous les exemples) : [ici](git_Introduction.pdf) 
-* un tutoriel de prise en main de [git](https://git-scm.com) en ligne de commande (construit à partir des exemples du cours précédent) : [ici](git/git_premierspas.md) 
-* un tutoriel de découverte de [git](https://git-scm.com) (au travers d'[EGit](http://www.eclipse.org/egit/)) : [ici](egit/git_egit_tutoriel.md)
-* un mémo pour l'utilisation de git sous Eclipse via EGit : [là](egit/git_egit_memo.md)
+* les instructions d'installation de git si nécessaire: [git](https://git-scm.com)
+* un tutoriel de prise en main de git en ligne de commande (construit à partir des exemples du cours précédent) : [ici](git/git_premierspas.md) 
 
+A l'issue de ces étapes, vous devez avoir compris la notion de version pour des fichiers.
 
+## Exercices interactifs avancés pour manipuler les commandes git
 
-## Des liens vers des exercices interactifs pour manipuler les commandes git
+L'outil **git-it** vous guide pour acquérir toutes les bases dont vous avez besoin. Les autres outils sont visuellement intéressants mais facultatifs.
 
+* [Git-It](https://github.com/jlord/git-it-electron) : application multi-plateforme ([à installer](https://github.com/jlord/git-it-electron/releases/latest)) proposant des défis utilisant *vraiment* git et GitHub sans passer par un émulateur...
 * [Resources to learn git](https://try.github.io)
 * [Learn Git Branching](http://learngitbranching.js.org/) : apprendre le branching sous git
 * [Visualizing git](http://git-school.github.io/visualizing-git) et [Git Gud](https://nic-hartley.github.io/git-gud) : des simulateurs web pour manipuler/visualiser les commandes et mieux comprendre les workflows.
-* [Git-It](https://github.com/jlord/git-it-electron) : application multi-plateforme ([à installer](https://github.com/jlord/git-it-electron/releases/latest)) proposant des défis utilisant *vraiment* git et GitHub sans passer par un émulateur...
 
 
 ## Des liens à garder sous la main
@@ -31,15 +30,6 @@ Une liste d'outils permettant d'utiliser git en mode graphique : [ici](https://g
    
 Git and GitHub for Poets (une série de courtes vidéos par [Coding Train](https://twitter.com/thecodingtrain)) : [ici](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)  
 Git++ : Passez au niveau supérieur de la gestion de version : [ici](https://www.youtube.com/watch?v=m0_C2cfM9IM) et [là](https://www.youtube.com/watch?v=rt-9mPaYtKo) avec les transparents [ici](http://webadeo.github.io/git-simpler-better-faster-stronger/#1.0)
-
-
-## Des Références
-
-Les références sont disponibles : [ici](egit/git_references.md)  
-Un guide pour personnaliser vos messages de commit avec des emojis est disponible [là](https://gitmoji.carloscuesta.me/)
-
-
-
 
 
 ## On en discute ?
