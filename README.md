@@ -22,8 +22,8 @@ Attention: pour faire des pushs, les tutos ne sont pas à jour, il faut passer p
 ## Gestion des clés ssh
 
 Comme github ne permet plus les push avec authentification basique, il faut passer par la création/déclaration de clés ssh
-1. Création de clés ssh locales (publique/privée): [lien](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keys)
-1. Déclaration des clés autorisées sur votre compte github
+1. Création de clés ssh locales (publique/privée), pas besoin de ssh-agent: [lien](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keys)
+1. Déclaration des clés autorisées sur votre compte github (suivre les liens à partir de la page ci-dessus)
 1. clonage des projets en mode ssh (ou redéclaration des dépots distants)
 
 
